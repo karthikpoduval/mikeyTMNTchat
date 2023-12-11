@@ -1,5 +1,4 @@
 import os
-from openai import OpenAI
 import base64
 import json
 import time
